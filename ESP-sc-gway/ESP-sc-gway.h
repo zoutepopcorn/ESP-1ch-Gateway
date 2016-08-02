@@ -15,7 +15,13 @@
 #define _PASS "<YOUR-WIFI-PASSWORD>"
 
 // MQTT definitions
-#define _TTNSERVER "croft.thethings.girovito.nl"
+/*
+ router.eu.thethings.network # EU 433 and EU 863-870
+ router.us.thethings.network # US 902-928
+ router.cn.thethings.network # China 470-510 and 779-787
+ router.au.thethings.network # Australia 915-928 MHz
+ */
+#define _TTNSERVER "router.eu.thethings.network"
 #define _MQTTSERVER "your.server.com"
 
 // Gateway Ident definitions
