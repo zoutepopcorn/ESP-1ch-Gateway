@@ -1,3 +1,7 @@
+V 2.0
+==============================
+Please see https://github.com/things4u/ESP-1ch-Gateway-v2.0, for a update.
+
 Single Channel LoRaWAN Gateway
 ==============================
 This repository contains a proof-of-concept implementation of a single
